@@ -11,17 +11,27 @@ Flight prices rapidly changes over time,destinations,stoppages and airlines.Some
 The Air fare dataset contains 1000 records of air fares of market leading airlines and low price airlines between different routes.It also additionaly contains data regarding average passengers travelling in each route every week and the distance between the source and the destination.On the whole, it contains 11 features or dimensions to describe the air fares.
 
 Following are the features used in the dataset:
-#
+
 City1 (source)
+
 City2 (destination)
+
 Average Fare
+
 Distance
+
 Average weekly passengers
+
 market leading airline
+
 market share
+
 Average fare1
+
 Low price airline
+
 market share1
+
 price
 
 # Preprocessing
